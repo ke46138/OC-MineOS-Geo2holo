@@ -1,0 +1,6 @@
+{
+  greeting = "Hello, ",
+  scan = "Scan",
+  holo = "This program needs any holographic projector",
+  geo = "This program needs geoanalyzer"
+}
